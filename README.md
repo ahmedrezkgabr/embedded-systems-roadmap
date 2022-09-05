@@ -7,8 +7,7 @@ This road map is for Embedded Systems, software, and its prerequisites from comp
 #### [1.Computer Science](#1computer-science)
 #### [2.Introduction to MCU Interfacing](#2introduction-to-mcu-interfacing)
 #### [3.In depth MCU Interfacing](#3in-depth-mcu-interfacing)
-#### [4.RTOS]
-#### [5.]
+#### comming soon
 
 ## 1.Computer Science
 You have to get solid understanding of computer science to be able to study the technology
