@@ -3,7 +3,6 @@
 <h3 align="center">Embedded System Roadmap</h3>
 <p align="center">
 </p>
-
 # Curriculum
 
 **Curriculum version**: `1.0.0`
@@ -12,17 +11,17 @@
   - [Computer Science](#computer-science)
   - [Digital Design](#digital-design)
   - [Electronics](#electronics)
-- [Introduction to Embedded Systems](#introduction-to-embedded-systems)
-  - [Embedded System Concepts](#embedded-systems-concepts)
-  - [MCU Concepts](#mcu-concepts)
-  - [Introduction to MCU Interfacing](#introduction-to-mcu-interfacing)
-- [In-depth Embedded Systems](#indepth-embedded-systems)
-  - [ARM-based MCU Interfacing](#armbased-mcu-interfacing)
-  - [Automotive Bus Technology](#automotive-bus-technology)
-- [Real-Time OS](#advanced-cs)
-- [Autosar](#autosar)
-- [Software Design](#advanced-cs)
-- [Final projects](#final-project)
+- [Introduction to Embedded Systems](#in-progress)
+  - [Embedded System Concepts](#in-progress)
+  - [MCU Concepts](#in-progress)
+  - [Introduction to MCU Interfacing](#in-progress)
+- [In-depth Embedded Systems](#in-progress)
+  - [ARM-based MCU Interfacing](#in-progress)
+  - [Automotive Bus Technology](#in-progress)
+- [Real-Time OS](#in-progress)
+- [Autosar](#in-progress)
+- [Software Design](#in-progress)
+- [Final projects](#in-progress)
 
 ---
 
@@ -100,3 +99,7 @@ I recommend [Al-Azhar sheet](https://sites.google.com/view/azharicpc/) and go wi
 ---
 
 ## in progress
+### please wiat
+
+# NOTE !!!
+### this roadmap developed based on my opinion and influenced by my instructors
