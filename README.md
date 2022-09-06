@@ -181,3 +181,4 @@ now you have got a sense of what is embedded systems. and you now know what is m
 
 # NOTE !!!
 ### this roadmap developed based on my opinion and influenced by my instructors
+#### if you have any comments, contact me. <3
