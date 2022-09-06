@@ -38,7 +38,7 @@ And a good knowledge of `degital design` and `electronics`.
 - [Operating Systems](#operating-systems)
 - [others](#others)
 
-### intro to cs
+### Intro to CS
 #### study one of the following courses (CS50 is recommended)
 - [CS50: Computer Science Courses and Programs from Harvard](https://www.edx.org/cs50)
 - [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
