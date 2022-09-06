@@ -148,7 +148,7 @@ now you have got a sense of what is embedded systems. and you now know what is m
 - [Mastering Microcontroller: Timers, PWM, CAN, Low Power(MCU2)](https://www.udemy.com/course/microcontroller-programming-stm32-timers-pwm-can-bus-protocol/)
 
 #### you can take one of the following programs
-- - [NTI](https://www.nti.sci.eg/dey/) (ARM module)
+- [NTI](https://www.nti.sci.eg/dey/) (ARM module)
 - [egFWD advanced track](https://egfwd.com/specializtion/advanced-embedded-systems/?utm_source=googlesearch&utm_medium=ads&utm_campaign=branding&utm_adgroup=fwd&gclid=Cj0KCQjw39uYBhCLARIsAD_SzMQEA53h9VoakBL5zqyxX0F4_PoqEGWU0a5UoYbr6fNw2nOstQmZXsgaAnsoEALw_wcB)
 
 ---
