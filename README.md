@@ -1,128 +1,102 @@
-![alt text](https://github.com/ahmedrezkgabr/embedded-systems-roadmap/blob/master/image.jpg?raw=true)
+![Screenshot](5a40809b4b9f178f884dd81d799f2388.jpg)
 
 <h3 align="center">Embedded System Roadmap</h3>
-
 <p align="center">
-  
 </p>
 
+# Curriculum
+
+**Curriculum version**: `1.0.0`
+
+- [Prerequisites](#prerequisites)
+  - [Computer Science](#computer-science)
+  - [Digital Design](#digital-design)
+  - [Electronics](#electronics)
+- [Introduction to Embedded Systems](#introduction-to-embedded-systems)
+  - [Embedded System Concepts](#embedded-systems-concepts)
+  - [MCU Concepts](#mcu-concepts)
+  - [Introduction to MCU Interfacing](#introduction-to-mcu-interfacing)
+- [In-depth Embedded Systems](#indepth-embedded-systems)
+  - [ARM-based MCU Interfacing](#armbased-mcu-interfacing)
+  - [Automotive Bus Technology](#automotive-bus-technology)
+- [Real-Time OS](#advanced-cs)
+- [Autosar](#autosar)
+- [Software Design](#advanced-cs)
+- [Final projects](#final-project)
+
+---
+
+## Prerequisites
+The Embedded Systems software engineer need to have solid knowledge of `CS`.
+
+And a good knowledge of `degital design` and `electronics`.
+
+## Computer Science
+- [Intro to CS](#intro-to-cs)
+- [The C Programming Language](#the-c-programming-language)
+- [Data Structure and Algotithms](#data-structure-and-algotithms)
+- [Problem Solving Mindset](#problem-solving-mindset)
+- [Operating Systems](#operating-systems)
+- [others](#others)
+
+### intro to cs
+#### study one of the following courses (CS50 is recommended)
+- [CS50: Computer Science Courses and Programs from Harvard](https://www.edx.org/cs50)
+- [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+
+### The C Programming Language
+#### study the following books
+- [C Programming A modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
+- [Understanding and Using C Pointers](https://www.amazon.com/Understanding-Using-Pointers-Techniques-Management/dp/1449344186)
+
+#### practice writing C programs on the following websites
+- [Hacker Rank](https://www.hackerrank.com/)
+- [IndiaBix](https://www.indiabix.com/)
+- [San Foundry](https://www.sanfoundry.com/)
+
+### Data Structure and Algotithms
+#### study one of the following cources of discrete mathematics (Dr Waleed is recommended)
+- [MA 112: Discrete Mathematics I (logic, basics, and foundations)](https://github.com/DrWaleedAYousef/Teaching/tree/master/DiscreteMathematics)
+- [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+- [Descrete Mathematics Neso-Academy](https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3)
+
+#### study the following book
+- [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+
+#### study the following course
+- [CS 214: Data Structures](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures)
+
+#### if you want to get advanced study one of the follwoing courses
+- [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) 
+- [Algorithms Specialization](https://www.coursera.org/specializations/algorithms?page=9)
 
 
-
-# embedded-systems-roadmap
-This road map is for Embedded Systems, software, and its prerequisites from computer science.
-#### this roadmap based on my personal opinion and influenced by the opinion of my instructors 
-#### if you have any comments please contact me
-
-## 0.contents
-#### [1.Computer Science](#1computer-science)
-#### [2.Introduction to MCU Interfacing](#2introduction-to-mcu-interfacing)
-#### [3.In depth MCU Interfacing](#3in-depth-mcu-interfacing)
-#### comming soon
-
-## 1.Computer Science
-You have to get solid understanding of computer science to be able to study the technology
-#### [1.Prgramming](#1prgramming)
-#### [2.Discrete mathematics](#2discrete-mathematics)
-#### [3.Data structure and algorithms](#3data-structure-and-algorithms)
-#### [4.OS](#4os)
-#### [5.Degital Design](#5degital-design)
-#### [6.Others](#6others)
-
-### 1.Prgramming
-You must have a solid knowledge of programming
-
-I recommend starting with [CS50: Computer Science Courses and Programs from Harvard](https://www.edx.org/cs50) or Optional [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-
-then you have to get a solid knowledge in C prgramming language
-I recommend to studying (not just reading) the following books
-[C Programming A modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
-[Understanding and Using C Pointers](https://www.amazon.com/Understanding-Using-Pointers-Techniques-Management/dp/1449344186)
-
-programming languages need practice
-I recommend practicing on websites like
-[Hacker Rank](https://www.hackerrank.com/)
-[IndiaBix](https://www.indiabix.com/)
-[San Foundry](https://www.sanfoundry.com/)
-
-
-### 2.Discrete mathematics
-It is an prerequisite of Data structure and algorithms
-I recommend [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) or the course of [Dr/Waleed A. Yousef (Waleed Yousef)](https://github.com/DrWaleedAYousef) [Descrete Mathimatics](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S)
-
-
-### 3.Data structure and algorithms
-It is one of the most important topics in computer scinece and it is a mendatory topic to be a good software engineer
-
-I recommend starting with studying [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
-
-then the course of [Dr/Waleed A. Yousef (Waleed Yousef)](https://github.com/DrWaleedAYousef) [Introduction to data sturcure](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
-
-
-```C
-// if you have chosen this course so you have to study mit discrete course
-```
-then the course [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) 
-
-or [Algorithms Specialization](https://www.coursera.org/specializations/algorithms?page=9)
-
-#### problem solving
-problem solving is a mindset
-you need to practice your mind how to solve programmable problems that will face you in the future
-
+### Problem Solving Mindset
+#### you need to practice your mind how to solve programmable problems
 I recommend [Al-Azhar sheet](https://sites.google.com/view/azharicpc/) and go with its progress
 
-You can learn this field(Data structure and algorithms) through solving
+#### you can learn DS & ALGO through solving
+- [LeetCode](https://interview.leetcode.com/interview/?gclid=CjwKCAjwvNaYBhA3EiwACgndggVHD-TZV0xhKDm30cLEFvO-hVww5R5XobFp5Pe4b8m87O153xU22hoCHQQQAvD_BwE) is a good website to practice and learn
 
-[LeetCode](https://interview.leetcode.com/interview/?gclid=CjwKCAjwvNaYBhA3EiwACgndggVHD-TZV0xhKDm30cLEFvO-hVww5R5XobFp5Pe4b8m87O153xU22hoCHQQQAvD_BwE) is a good one to practice and learn
+### Operating Systems
+#### you can follow the [Core Systems](https://github.com/ossu/computer-science/blob/master/README.md#core-systems) in [OSSU](https://github.com/ossu)
 
-### 4.OS
-You have to get solid knowledge of Operating Systems consepts
-
-I recommend [CS-537: Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)
-
-### 5.Degital Design
-You need to have a good knowledge of this field
-I recommend the course of [Dr/Waleed A. Yousef (Waleed Yousef)](https://github.com/DrWaleedAYousef) [Logic design](https://www.youtube.com/watch?v=dgEOfxbbS_4&list=PLZNz7wrFA85Antgz1o79xCn1O2nwDEkLH)
-
-
-### 6.Others
-you need to have a basic knowledge of networks, OOP, and database
+### Others
+#### you can get some knowledge about
+- Networks
+- OOP
+- Data-bases
 
 
+## Digital Design
+#### study the following course
+- [CS 221: Digital Design](https://github.com/DrWaleedAYousef/Teaching/tree/master/DigitalDesign)
 
+## Electronics
+#### if you feel that you have enough knowledge, skip this section.
+#### you can return to the following book
+- [The Art of Electronics](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266)
 
-## [2.Introduction to MCU Interfacing]
-#### in prgress
+---
 
-
-
-## [3.In depth MCU Interfacing]
-#### in prgress
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## in progress
