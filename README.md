@@ -12,17 +12,14 @@
   - [Computer Science](#computer-science)
   - [Digital Design](#digital-design)
   - [Electronics](#electronics)
-- [Introduction to Embedded Systems](#in-progress)
-  - [Embedded System Concepts](#in-progress)
-  - [MCU Concepts](#in-progress)
-  - [Introduction to MCU Interfacing](#in-progress)
-- [In-depth Embedded Systems](#in-progress)
-  - [ARM-based MCU Interfacing](#in-progress)
-  - [Automotive Bus Technology](#in-progress)
-- [Real-Time OS](#in-progress)
-- [Autosar](#in-progress)
-- [Software Design](#in-progress)
-- [Final projects](#in-progress)
+- [Introduction to Embedded Systems](#introduction-to-embedded-systems)
+  - [Embedded Systems Concepts](#embedded-systems-concepts)
+  - [Introduction to MCU Interfacing](#inroduction-to-microcontroller-interfacing)
+- [In Depth Embedded Systems](#in-depth-embedded-systems)
+  - [ARM MCUs Interfacing](#arm-mcus-interfacing)
+- [Real Time OS](#real-time-os)
+- [Autosar](#autosar)
+- [Software Design](#software-design)
 
 ---
 
@@ -95,11 +92,12 @@ os is one of the most important fields that you should have a good knowledge in 
 - Networks
 - OOP
 - Data-bases
-- [The Missing Semester of Your CS Education]()
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) tobics like `terminals and shell scripting`, `vim`, `command line environments`, `version control`, and `more` are covered
 
 
 ## Digital Design
 #### study the following course
+you need to have a good knowledge in this field to understand the architecture of the MCU and the organisation of its componenets
 - [CS 221: Digital Design](https://github.com/DrWaleedAYousef/Teaching/tree/master/DigitalDesign)
 
 ## Electronics
@@ -108,9 +106,78 @@ os is one of the most important fields that you should have a good knowledge in 
 - [The Art of Electronics](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266)
 
 ---
+the following parts are the core of embeddid systems
+## Introduction to Embedded Systems
+at the beginnig i recommed you to stress in this topic because the next one depends on this one.
 
-## in progress
-### please wiat
+you need to have a solid knowledge of `ES concepts` and `MCU interfacing`
+- [Embedded Systems Concepts](#embedded-systems-concepts)
+- [Introduction to MCU Interfacing](#inroduction-to-microcontroller-interfacing)
+
+## Embedded Systems Concepts
+#### study the following book
+this book will give you the first step in the field of embedded systems
+- [Programming Embedded Systems](https://www.amazon.com/Programming-Embedded-Systems-Development-Tools/dp/0596009836)
+
+## Inroduction to Microcontroller Interfacing
+in this topic learn interfacing with `8-bit` microcontroller first
+### remember learn the concepts not the mcu, if you did then you can deal with any datasheet of any mcu
+#### you can take one of the following programs
+these programs are allowed if you are Egyptian (you can find the contents if it is allowed)
+- [NTI](https://www.nti.sci.eg/dey/) (AVR module)
+- [ITI summer diploma](https://www.iti.gov.eg) (starts in summer)
+- [egFWD professional track](https://egfwd.com/specializtion/professional-embedded-systems/?utm_source=googlesearch&utm_medium=ads&utm_campaign=branding&utm_adgroup=fwd&gclid=Cj0KCQjw39uYBhCLARIsAD_SzMQEA53h9VoakBL5zqyxX0F4_PoqEGWU0a5UoYbr6fNw2nOstQmZXsgaAnsoEALw_wcB)
+
+#### study one of the following books (Mazidi is recommended)
+- [AVR Microcontroller and Embedded Systems](https://www.amazon.com/AVR-Microcontroller-Embedded-Systems-Electronics/dp/0138003319) (chapter seven is your real start)
+- [Make: AVR Programming](https://www.oreilly.com/library/view/make-avr-programming/9781449356484/)
+
+---
+## In Depth Embedded Systems
+now you have got a sense of what is embedded systems. and you now know what is missing in your education
+
+## ARM MCUs Interfacing
+### in progress
+#### study the following books
+- [An Embedded Software Primer](https://www.amazon.com/Embedded-Software-Primer-David-Simon/dp/020161569X)
+- [The Definitive Guide to ARM](https://www.amazon.com/Definitive-Guide-Cortex%C2%AE-M3-Cortex%C2%AE-M4-Processors/dp/0124080820)
+
+#### study the following courses
+- [Embedded Systems Programming on ARM Cortex-M3/M4 Processor](https://www.udemy.com/course/embedded-system-programming-on-arm-cortex-m3m4/)
+- [Mastering Microcontroller and Embedded Driver Development](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/)
+- [Mastering Microcontroller: Timers, PWM, CAN, Low Power(MCU2)](https://www.udemy.com/course/microcontroller-programming-stm32-timers-pwm-can-bus-protocol/)
+
+#### you can take one of the following programs
+- - [NTI](https://www.nti.sci.eg/dey/) (ARM module)
+- [egFWD advanced track](https://egfwd.com/specializtion/advanced-embedded-systems/?utm_source=googlesearch&utm_medium=ads&utm_campaign=branding&utm_adgroup=fwd&gclid=Cj0KCQjw39uYBhCLARIsAD_SzMQEA53h9VoakBL5zqyxX0F4_PoqEGWU0a5UoYbr6fNw2nOstQmZXsgaAnsoEALw_wcB)
+
+---
+
+
+## Real Time OS
+### in progress
+#### you can study the following books
+- [MicroC OS II: The Real Time Kernel](https://www.amazon.com/MicroC-OS-II-Kernel-CD-ROM/dp/1578201039)
+- [Mastering the FreeRTOS Real Time Kernel](https://www.goodreads.com/en/book/show/41725681-mastering-the-freertos-real-time-kernel---a-hands-on-tutorial-guide)
+
+#### study the following course
+- [Introduction to Real-Time Operating System (RTOS)](https://www.udemy.com/course/introduction-to-rtos/)
+
+---
+
+## Autosar
+### in progress
+
+---
+
+## Software Design
+### in progress
+
+---
+
+
+
+
 
 # NOTE !!!
 ### this roadmap developed based on my opinion and influenced by my instructors
