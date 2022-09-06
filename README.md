@@ -3,6 +3,7 @@
 <h3 align="center">Embedded System Roadmap</h3>
 <p align="center">
 </p>
+
 # Curriculum
 
 **Curriculum version**: `1.0.0`
