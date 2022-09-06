@@ -75,7 +75,7 @@ And a good background to `degital design` and `electronics`.
 #### you need to practice your mind how to solve programmable problems
 [Al-Azhar sheet](https://sites.google.com/view/azharicpc/) is highly recommended
 
-#### good websites to practice and learn DS and Algorithms through problems:
+#### good websites to practice and learn DS and Algorithms through problems
 - [LeetCode](https://interview.leetcode.com/interview/?gclid=CjwKCAjwvNaYBhA3EiwACgndggVHD-TZV0xhKDm30cLEFvO-hVww5R5XobFp5Pe4b8m87O153xU22hoCHQQQAvD_BwE) 
 
 ### Operating Systems
