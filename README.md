@@ -29,7 +29,7 @@
 ## Prerequisites
 The Embedded Systems software engineer need to have solid knowledge of `CS`.
 
-And a good knowledge of `degital design` and `electronics`.
+And a good background to `degital design` and `electronics`.
 
 ## Computer Science
 - [Intro to CS](#intro-to-cs)
@@ -63,26 +63,26 @@ And a good knowledge of `degital design` and `electronics`.
 - [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 - [Descrete Mathematics Neso-Academy](https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3)
 
-#### study the following course
+#### study the following course on data structure
 - [CS 214: Data Structures](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures)
 
-#### if you want to get advanced study one of the follwoing courses
+#### to reach an advanced level in algorithms, study one of the follwoing courses
 - [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) 
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms?page=9)
 
 
 ### Problem Solving Mindset
 #### you need to practice your mind how to solve programmable problems
-I recommend [Al-Azhar sheet](https://sites.google.com/view/azharicpc/) and go with its progress
+[Al-Azhar sheet](https://sites.google.com/view/azharicpc/) is highly recommended
 
-#### you can learn DS & ALGO through solving
-- [LeetCode](https://interview.leetcode.com/interview/?gclid=CjwKCAjwvNaYBhA3EiwACgndggVHD-TZV0xhKDm30cLEFvO-hVww5R5XobFp5Pe4b8m87O153xU22hoCHQQQAvD_BwE) is a good website to practice and learn
+#### good websites to practice and learn DS and Algorithms through problems:
+- [LeetCode](https://interview.leetcode.com/interview/?gclid=CjwKCAjwvNaYBhA3EiwACgndggVHD-TZV0xhKDm30cLEFvO-hVww5R5XobFp5Pe4b8m87O153xU22hoCHQQQAvD_BwE) 
 
 ### Operating Systems
-#### you can follow the [Core Systems](https://github.com/ossu/computer-science/blob/master/README.md#core-systems) in [OSSU](https://github.com/ossu)
+#### [Core Systems](https://github.com/ossu/computer-science/blob/master/README.md#core-systems) is a good source from the [OSSU](https://github.com/ossu)
 
 ### Others
-#### you can get some knowledge about
+#### In computer science there are other core courses that are important, albeit not being of high importance to embedded systems fundamentals
 - Networks
 - OOP
 - Data-bases
@@ -94,7 +94,7 @@ I recommend [Al-Azhar sheet](https://sites.google.com/view/azharicpc/) and go wi
 
 ## Electronics
 #### if you feel that you have enough knowledge, skip this section.
-#### you can return to the following book
+#### you can reference to the following book
 - [The Art of Electronics](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266)
 
 ---
