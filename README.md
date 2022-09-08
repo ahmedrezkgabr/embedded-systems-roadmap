@@ -164,6 +164,10 @@ these programs are allowed if you are Egyptian (you can find the contents if it 
 - [AVR Microcontroller and Embedded Systems](https://www.amazon.com/AVR-Microcontroller-Embedded-Systems-Electronics/dp/0138003319) (chapter seven is your real start)
 - [Make: AVR Programming](https://www.oreilly.com/library/view/make-avr-programming/9781449356484/)
 
+#### study the following book
+
+- [Embedded C programming and the Atmel AVR](https://www.goodreads.com/en/book/show/198209)
+
 ---
 
 ## In Depth Embedded Systems
